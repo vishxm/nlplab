@@ -1,6 +1,4 @@
-# nlplab
-
-## Natural Language Processing Lab submissions
+# Natural Language Processing Lab submissions
 
 1. Introductory NLTK
 2. Intermediate NLTK and work replacement
